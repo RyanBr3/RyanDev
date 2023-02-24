@@ -1,0 +1,58 @@
+body{
+    background-color: black;
+}
+h1 {
+    color: #f51111;
+}
+
+.cor1{
+    background-color: #f51111;
+}
+
+.efeito:hover{
+    cursor: pointer;
+    transition-duration: 1s;
+    transform: scale(1.2 , 1.2);
+    -webkit-transform: scale(1.2);
+}
+
+.efeito2:hover{
+    cursor: pointer;
+    transition-duration: 1.2s;
+    transform: scale(0.5 , 0.5);
+}
+
+.space {
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+.space-1 {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.tamanho-letra {
+    font-size: 70px;
+}
+
+.back-fund-input{
+    background-color: #f51111;
+    padding-left: 150px;
+    padding-right: 150px;
+    font-size: 20px;
+    margin-left: 80px;
+    font-weight: bold;
+    color: white
+}
+
+footer {
+    padding-top: 250px;
+    margin-left: center;
+    margin-right: center;
+    padding-left: 300px;
+}
+
+.pesquisar {
+    color: white;
+}
